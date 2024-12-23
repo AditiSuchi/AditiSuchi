@@ -1,6 +1,6 @@
- <h1 align="center">Hi World👋, This is Aditi </h1>
+ <h1 align="center">Hello World👋, This is Aditi💻 </h1>
 
-- 🎓 I have completed B.tech in Mechanical Enginnering at RGPV University (2020-24)
+- 🎓 I have completed B.tech in Mechanical Enginnering 🪛🛠️ at RGPV University (2020-24)
 - 🔭 I’m currently working on Data Science
 - 💬 Ask me anything about Data Science & Data Analysis 
 - 📫 How to reach me: aditisuchi11@gmail.com
