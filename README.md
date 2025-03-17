@@ -11,9 +11,7 @@
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/aditi-72347621b/">
-  
     <img src="https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=Linkedin&logoColor=black" alt="Linkedin Badge"/>
-     <p> 🖇️</p>
   </a>
 </div>
 
