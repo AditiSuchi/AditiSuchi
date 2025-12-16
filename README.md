@@ -1,7 +1,8 @@
  <h1 align="center">Hello World👋, This is Aditi💻 </h1>
 
 - 🎓 I have completed B.tech in Mechanical Enginnering 🪛🛠️ at RGPV University (2020-24)
-- 🔭 I’m currently working on Data Science
+- 🌐 I am currently working in World of Websites
+- 🔭 I had worked on Data Science
 - 💬 Ask me anything about Data Science & Data Analysis 
 - 📫 How to reach me: aditisuchi11@gmail.com
   
@@ -16,7 +17,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,mysql,selenium,html,css,js,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,mysql,selenium,html,css,js,github,HTML,CSS, Javascript, React JS)](https://skillicons.dev)
 
 
 <p style="background-color: #242938; padding: 10px; display: inline-block; border-radius: 5px;">
