@@ -1,42 +1,62 @@
- <h1 align="center">Hello World👋, This is Aditi💻 </h1>
+<h1 align="center">Hello World 👋, This is Aditi 💻</h1>
 
-- 🎓 I have completed B.tech in Mechanical Enginnering 🪛🛠️ at RGPV University (2020-24)
-- 🌐 I am currently working in World of Websites
-- 🔭 I had worked on Data Science
-- 💬 Ask me anything about Data Science & Data Analysis 
-- 📫 How to reach me: aditisuchi11@gmail.com
-  
-### Connect with me:
+<p align="center">
+🚀 Data Science Enthusiast | Content Creator | Tech Explorer  
+</p>
+
+---
+
+## 👩‍🎓 About Me
+- 🎓 B.Tech in Mechanical Engineering from **RGPV University (2020–2024)**
+- 🌐 Currently working at **World of Websites**
+- 🔭 Actively working on **Data Science & Data Analysis projects**
+- 📊 Interested in **AI, ML, SQL & Business Insights**
+- 🎥 Creating tech & learning content on **YouTube**
+- 💬 Ask me anything about **Data Science & Data Analysis**
+- 📫 Reach me at: **aditisuchi11@gmail.com**
+
+---
+
+## 🌐 Connect with Me
 <div id="badges">
   <a href="https://github.com/AditiSuchi">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
   <a href="https://www.linkedin.com/in/aditi-72347621b/">
-    <img src="https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=Linkedin&logoColor=black" alt="Linkedin Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://youtube.com/@AditiWays">
+    <img src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=red"/>
   </a>
 </div>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,mysql,selenium,html,css,js,github,HTML,CSS, Javascript, React JS)](https://skillicons.dev)
+---
 
+## 🛠️ Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,mysql,selenium,html,css,js,react,github)](https://skillicons.dev)
 
-<p style="background-color: #242938; padding: 10px; display: inline-block; border-radius: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy Logo" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas Logo" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Logo" width="50" height="50"/>
+<p style="background-color: #242938; padding: 10px; display: inline-block; border-radius: 8px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45"/>
 </p>
 
+---
 
-
-
+## 📈 GitHub Stats
 ![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AditiSuchi&show_icons=true&theme=radical)
-<br>
+<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSuchi&layout=compact&theme=radical)
 
+---
 
-<br>
+## 🎥 Latest on YouTube
+📺 **AditiWays** – Tech, Data Science & Career Content  
+👉 https://youtube.com/@AditiWays  
 
+---
 
-Thank you for visiting my profile! 😊
+✨ Thank you for visiting my profile!  
 ⭐️ From [Aditi](https://github.com/AditiSuchi)
+
