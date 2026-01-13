@@ -7,12 +7,12 @@
 ---
 
 ## 👩‍🎓 About Me
-- 🎓 B.Tech in Mechanical Engineering from **RGPV University (2020–2024)**
+- 🎓 B.Tech in Mechanical Engineering from **RGPV University**
 - 🌐 Currently working at **World of Websites**
-- 🔭 Actively working on **Data Science & Data Analysis projects**
-- 📊 Interested in **AI, ML, SQL & Business Insights**
+- 🔭 Actively working on **Website , Data Science & Data Analysis projects**
+- 📊 Interested in **JS, AI, ML, SQL & Business Insights**
 - 🎥 Creating tech & learning content on **YouTube**
-- 💬 Ask me anything about **Data Science & Data Analysis**
+- 💬 Ask me anything about **Techonology**
 - 📫 Reach me at: **aditisuchi11@gmail.com**
 
 ---
